@@ -1,6 +1,7 @@
 # e_commerce_app
 
 A new Flutter project.
+git ls-remote origin
 
 ## Getting Started
 
